@@ -1,5 +1,15 @@
 # Hi there 👋 I'm Gilberto Borges
 
+### Software Engineer at [PodCodar]("https://github.com/podcodar/").
+
+- 🔭 I’m currently working on *PodCodar Code School*
+
+- 🌱 I’m currently learning *Next.js*, *Chakara UI* and *React.js*
+
+- 💬 Ask me about Front End Developer
+
+- 📫 How to reach me: borgesgfj@gmail.com
+
 ### Connect with me:
 
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raysson ornelas" height="30" width="40" />](https://www.linkedin.com/in/gilberto-borges-a048439a/)
