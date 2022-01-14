@@ -2,7 +2,7 @@
 
 ### Software Engineer at UME | [PodCodar]("https://github.com/podcodar/").
 
-- 🔭 I’m currently working on *PodCodar Code School*
+- 🔭 I’m currently working on *UME*
 
 - 🌱 I’m currently learning *Next.js*, *Chakara UI* and *React.js*
 
