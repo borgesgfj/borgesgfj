@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on *UME*
 
-- 🌱 I’m currently learning *Next.js*, *Chakara UI* and *React.js*
+- 🌱 I’m currently learning *Next.js*, *Chakara UI*, *NestJS* and *React.js*
 
-- 💬 Ask me about Front End Developer
+- 💬 Ask me about Front End and Back End Developer
 
 - 📫 How to reach me: borgesgfj@gmail.com
 
