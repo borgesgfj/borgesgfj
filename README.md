@@ -1,12 +1,10 @@
 # Hi there 👋 I'm Gilberto Borges
 
-### Software Engineer at UME | [PodCodar]("https://github.com/podcodar/").
+### Physicist | Software Engineer | [PodCodar]("https://github.com/podcodar/").
 
-- 🔭 I’m currently working on *UME*
+- 🔭 I’m currently working as a postdoctoral researcher on *QUTE.sk Slovak National Center for Quantum Technologies *
 
 - 🌱 I’m currently learning *Next.js*, *Chakara UI*, *NestJS* and *React.js*
-
-- 💬 Ask me about Front End and Back End Developer
 
 - 📫 How to reach me: borgesgfj@gmail.com
 
